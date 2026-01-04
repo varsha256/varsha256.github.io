@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-draft: false
+draft: true
 ---
 
 Hi! I'm Varsha, a QA engineer passionate about automation and AI.  
