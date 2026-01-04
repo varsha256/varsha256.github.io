@@ -1,4 +1,4 @@
-baseurl: baseURL: "https://varsha256.github.io/hugo-blog/"
+baseurl: baseURL: "https://varsha256.github.io/"
 languageCode: en-us
 theme: stack
 title: Example Site

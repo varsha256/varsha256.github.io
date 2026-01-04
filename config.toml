@@ -1,5 +1,5 @@
   theme = "stack"
-  baseURL = "https://varsha256.github.io/hugo-blog/"
+  baseURL = "https://varsha256.github.io/"
   [params]
     avatar = "img/avatar.png"
     customCSS = ["css/custom.css"]
