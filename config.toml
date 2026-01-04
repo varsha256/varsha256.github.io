@@ -12,5 +12,10 @@
       enabled = true
       local = true
       src = "img/avatar.png"
+[params.homepage]
+  layout = "list"
+
+[[params.homepage.sections]]
+  section = "about"
 
   
