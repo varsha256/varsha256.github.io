@@ -1,0 +1,16 @@
+theme = "stack"
+
+  [params]
+    avatar = "img/avatar.png"
+    customCSS = ["css/custom.css"]
+
+  [params.sidebar]
+    emoji = "👋"
+    subtitle = "Quality Engineer | AI in Testing | Automation"
+    
+    [params.sidebar.avatar]
+      enabled = true
+      local = true
+      src = "img/avatar.png"
+
+  
