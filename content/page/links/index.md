@@ -27,7 +27,7 @@ links:
 
   - title: Resume
     description: My professional resume highlighting 12+ years of experience in testing and automation.
-    website: https://drive.google.com/file/d/1KrDeAZecd9OzfWJLLYQo3Q_isGtci0xK/view?usp=drive_link
+    website: https://drive.google.com/file/d/1ZPbTU0nOIiqks5SgX1G6sZkzKifhFK1H/view?usp=sharing
     image: https://cdn-icons-png.flaticon.com/512/337/337946.png
 ---
 
